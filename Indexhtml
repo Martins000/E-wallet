@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>E-wqllet APP UI Design</title>
+    <linkrel="styleshert"href="style.css"
+<link rel="stylesheet" hret= "https://stackpath.bootstrapcen.com/bootstrap/4./.3/css/bootstrap.min.css$>
+<link rel="stylesheet" href="https://stackpath.bootstrapcdc.com/font-awesome/4.7.0/css/font-awesome.min.css">
+</head>
+<body>
+<div class="wallet-container text-center">
+<p>my E-wallet</p>
+</div>
+
+</body>
+</html>
